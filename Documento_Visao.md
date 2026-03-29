@@ -1,10 +1,10 @@
-# Documento de Visão: Sistema de Gerenciamento de Projetos e Empregados (SGPE)
+# Documento de Visão: Sistema de Gerenciamento de Projetos e Empregados
 
 **Público-Alvo:** Avaliação Acadêmica (Professor)
 **Escopo:** Aplicação Java Console (sem interface gráfica)
 
 ## 1. Propósito do Sistema
-O **Sistema de Gerenciamento de Projetos e Empregados (SGPE)** tem como finalidade centralizar o cadastro e a alocação de profissionais em diferentes projetos corporativos. Ele serve como uma ferramenta de backoffice para organizar equipes, definir orçamentos de projetos e gerenciar as funções dos empregados em uma empresa. A principal motivação do sistema foi criar um ambiente simples e robusto que aplicasse os conceitos de engenharia de software e padrões de projeto essenciais.
+O **Sistema de Gerenciamento de Projetos e Empregados** tem como finalidade centralizar o cadastro e a alocação de profissionais em diferentes projetos corporativos. Ele serve como uma ferramenta de backoffice para organizar equipes, definir orçamentos de projetos e gerenciar as funções dos empregados em uma empresa. A principal motivação do sistema foi criar um ambiente simples e robusto que aplicasse os conceitos de engenharia de software e padrões de projeto essenciais.
 
 ## 2. Principais Funcionalidades
 Para atender aos requisitos descritos (Opção de Dupla: 2 cadastros), o sistema implementa duas áreas fundamentais de CRUD (Create, Read, Update, Delete):
