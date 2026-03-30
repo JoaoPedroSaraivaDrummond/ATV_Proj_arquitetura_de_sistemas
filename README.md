@@ -12,7 +12,7 @@ Para atender aos requisitos descritos (Opção de Dupla: 2 cadastros), o sistema
 Dentro do escopo desenhado, o sistema destina-se primariamente a dois tipos de usuários (atores):
 - **Gerentes de Recursos Humanos (RH):** Que utilizam a funcionalidade de Empregados para manter o inventário de pessoal sempre atualizado.
 - **Gerentes de Projetos:** Que precisam catalogar e acompanhar os projetos ativos na corporação.
-- **Administradores do Sistema:** Responsáveis por eventuais manutenções dos cadastros base.
+- **Administradores do Sistema:** Responsáveis por eventuais manutenções.
 
 ---
 
