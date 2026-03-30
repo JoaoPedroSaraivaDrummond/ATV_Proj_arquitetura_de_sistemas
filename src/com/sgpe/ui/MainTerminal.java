@@ -13,9 +13,9 @@ public class MainTerminal {
     public static void main(String[] args) {
         int opcao = -1;
         do {
-            System.out.println("\n==================================");
+            System.out.println("\n===========================================================");
             System.out.println("      Sistema de Gerenciamento de Projetos e Empregados");
-            System.out.println("==================================");
+            System.out.println("=============================================================");
             System.out.println("1. Gerenciar Empregados");
             System.out.println("2. Gerenciar Projetos");
             System.out.println("0. Sair");
