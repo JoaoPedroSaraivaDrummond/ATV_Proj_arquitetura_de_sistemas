@@ -39,4 +39,4 @@ O sistema foi estruturado seguindo as boas práticas de orientação a objetos, 
 2. **Singleton:** Assim como no cadastro de Empregados, o `ProjetoRepository` impõe que a base histórica de projetos compartilhada pela aplicação inteira seja referenciada a partir de uma instância única durante todo o ciclo de vida da execução.
 
 ---
-**Nota:** A aplicação foca inteiramente no back-end funcional usando console para entrada e saída de dados, validando os conceitos de encapsulamento, herança, polimorfismo e design patterns apresentados na disciplina.
+**Nota:** A aplicação foca inteiramente no back-end funcional usando console para entrada e saída de dados.
