@@ -9,7 +9,7 @@ Para atender aos requisitos descritos (Opção de Dupla: 2 cadastros), o sistema
 - **Gerenciamento de Projetos:** Possibilita criar novos projetos (com detalhes como nome, orçamento inicial e descrição), ler os detalhes, modificar escopos/orçamentos e cancelar/apagar projetos do portfólio.
 
 ## 3. Principais Usuários
-Dentro do escopo desenhado, o sistema destina-se primariamente a dois tipos de usuários (atores):
+Dentro do escopo desenhado, o sistema destina-se primariamente a dois tipos de usuários:
 - **Gerentes de Recursos Humanos (RH):** Que utilizam a funcionalidade de Empregados para manter o inventário de pessoal sempre atualizado.
 - **Gerentes de Projetos:** Que precisam catalogar e acompanhar os projetos ativos na corporação.
 - **Administradores do Sistema:** Responsáveis por eventuais manutenções.

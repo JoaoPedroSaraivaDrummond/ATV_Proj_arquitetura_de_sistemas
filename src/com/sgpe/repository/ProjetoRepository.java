@@ -38,7 +38,6 @@ public class ProjetoRepository {
     }
     
     public void update(Projeto p) {
-        // Simulação de persistência
     }
     
     public boolean delete(int id) {

@@ -17,7 +17,6 @@ public class ProjetoController {
     public void criarProjeto(String nome, double orcamento, String descricao) {
         int newId = repository.generateId();
         
-        // Padrão Builder em ação
         Projeto projeto = new ProjetoBuilder()
                 .setId(newId)
                 .setNome(nome)

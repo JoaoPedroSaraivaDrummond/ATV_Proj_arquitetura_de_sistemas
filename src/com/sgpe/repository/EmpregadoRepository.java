@@ -38,7 +38,6 @@ public class EmpregadoRepository {
     }
     
     public void update(Empregado emp) {
-        // Num banco de dados real isso faria o update. Em memória o objeto já está com a referência atualizada.
     }
     
     public boolean delete(int id) {
